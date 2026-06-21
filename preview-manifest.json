@@ -1,0 +1,979 @@
+{
+  "count": 108,
+  "missing_count": 0,
+  "items": [
+    {
+      "slug": "aloe-beauty-salon",
+      "business": "Aloe Beauty Salon",
+      "url": "https://aloebeautysalon.com/contact",
+      "source": "initial",
+      "status": "prior_attempt_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/aloe-refresh.html",
+      "stable_path": "p/aloe-beauty-salon/"
+    },
+    {
+      "slug": "p3-barbershop",
+      "business": "P3 Barbershop",
+      "url": "https://alessiabasirico90.wixsite.com/p3barbershop",
+      "source": "initial",
+      "status": "prior_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/p3-refresh.html",
+      "stable_path": "p/p3-barbershop/"
+    },
+    {
+      "slug": "nextlevel",
+      "business": "Next Level Exclusive Barbershop",
+      "url": "https://israelovdaniel.wixsite.com/nextlevelexclusiveba",
+      "source": "initial",
+      "status": "prior_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/nextlevel-refresh.html",
+      "stable_path": "p/nextlevel/"
+    },
+    {
+      "slug": "broadway-barber",
+      "business": "The Broadway Barbershop",
+      "url": "https://thebroadwaybarber.wixsite.com/thebroadwaybarbers-1",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/broadway-barber-refresh.html",
+      "stable_path": "p/broadway-barber/"
+    },
+    {
+      "slug": "mccoy-blends",
+      "business": "Mccoy Blends Barbershop",
+      "url": "https://mccoyblendz.wixsite.com/mccoyblendsbarbersho",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/mccoy-blends-refresh.html",
+      "stable_path": "p/mccoy-blends/"
+    },
+    {
+      "slug": "barber-company",
+      "business": "The Barber Company",
+      "url": "https://thebarbercompany20.wixsite.com/website",
+      "source": "initial",
+      "status": "submitted_form_cleared_no_visible_success_message",
+      "local_html": "/Users/openclaw/online-100/barber-company-refresh.html",
+      "stable_path": "p/barber-company/"
+    },
+    {
+      "slug": "rtj-barbershop",
+      "business": "R.T.J Barbershop",
+      "url": "https://rtjbarber.wixsite.com/rtjbarbershop",
+      "source": "initial",
+      "status": "submitted_form_cleared_no_visible_success_message",
+      "local_html": "/Users/openclaw/online-100/rtj-barbershop-refresh.html",
+      "stable_path": "p/rtj-barbershop/"
+    },
+    {
+      "slug": "man-cave-barbershop",
+      "business": "The Man Cave Barbershop",
+      "url": "https://barbershopthemanca.wixsite.com/themancavebarbershop",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/man-cave-barbershop-refresh.html",
+      "stable_path": "p/man-cave-barbershop/"
+    },
+    {
+      "slug": "goodfellas-beechwood",
+      "business": "GoodFellas @ Beechwood",
+      "url": "https://bzercdabarber.wixsite.com/goodfellasbeechwood",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/goodfellas-beechwood-refresh.html",
+      "stable_path": "p/goodfellas-beechwood/"
+    },
+    {
+      "slug": "hbk-studio",
+      "business": "HBK Studio Kaua'i",
+      "url": "https://kekoacamat12.wixsite.com/hbkstudio",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/hbk-studio-refresh.html",
+      "stable_path": "p/hbk-studio/"
+    },
+    {
+      "slug": "giulia-love-salon",
+      "business": "Giulia Love Salon",
+      "url": "https://giulialovesalon.wixsite.com/giulialovesalon",
+      "source": "initial",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/giulia-love-salon-refresh.html",
+      "stable_path": "p/giulia-love-salon/"
+    },
+    {
+      "slug": "2pro-traditional",
+      "business": "Contact | 2 Pro Traditional Barbershop",
+      "url": "https://magdieenzora94.wixsite.com/2probarbershop/contact",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/2pro-traditional-refresh.html",
+      "stable_path": "p/2pro-traditional/"
+    },
+    {
+      "slug": "uptown-barbershop",
+      "business": "UpTown BarberShop",
+      "url": "https://jncpalve.wixsite.com/website",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/uptown-barbershop-refresh.html",
+      "stable_path": "p/uptown-barbershop/"
+    },
+    {
+      "slug": "cloud9-barbershop",
+      "business": "Cloud9 Barbershop 1",
+      "url": "https://cloud9barbershopp.wixsite.com/cloud9-barbershop-1",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/cloud9-barbershop-refresh.html",
+      "stable_path": "p/cloud9-barbershop/"
+    },
+    {
+      "slug": "uppercuts-bellevue",
+      "business": "Uppercuts Barbershop Bellevue",
+      "url": "https://uppercutsbarbersho.wixsite.com/website",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/uppercuts-bellevue-refresh.html",
+      "stable_path": "p/uppercuts-bellevue/"
+    },
+    {
+      "slug": "natural-effect-smp",
+      "business": "Smp | Natural Effect Smp | Moore",
+      "url": "https://ryanrentie.wixsite.com/naturaleffectsmp",
+      "source": "batch20",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/batch20/natural-effect-smp-refresh.html",
+      "stable_path": "p/natural-effect-smp/"
+    },
+    {
+      "slug": "efendi-turkish",
+      "business": "Efendi turkish barbershop",
+      "url": "https://zanyaribrahim2023.wixsite.com/efenditurkishbarbe-1",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/efendi-turkish-refresh.html",
+      "stable_path": "p/efendi-turkish/"
+    },
+    {
+      "slug": "distinguished-blendz",
+      "business": "Distinguished Blendz",
+      "url": "https://distinguishedblend.wixsite.com/mysite",
+      "source": "batch20",
+      "status": "confirmed_success_message",
+      "local_html": "/Users/openclaw/online-100/batch20/distinguished-blendz-refresh.html",
+      "stable_path": "p/distinguished-blendz/"
+    },
+    {
+      "slug": "nrv-barber-studio",
+      "business": "Nrv Barber Studio",
+      "url": "https://nrvbarberstudio.wixsite.com/nrv-barber-studio",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/nrv-barber-studio-refresh.html",
+      "stable_path": "p/nrv-barber-studio/"
+    },
+    {
+      "slug": "billz-barbershop",
+      "business": "Billz Barbershop",
+      "url": "https://billthebarberxo.wixsite.com/billzbarbershop",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/billz-barbershop-refresh.html",
+      "stable_path": "p/billz-barbershop/"
+    },
+    {
+      "slug": "sherwood-gallery",
+      "business": "Sherwood Gallery Barbers",
+      "url": "https://detroitexecutivesllc.wixsite.com/sherwoodgallerybarbe",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/sherwood-gallery-refresh.html",
+      "stable_path": "p/sherwood-gallery/"
+    },
+    {
+      "slug": "forever-young-barber",
+      "business": "Forever Young Barber Shop",
+      "url": "https://foreveryounganu.wixsite.com/foreveryoungbarbersh",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/forever-young-barber-refresh.html",
+      "stable_path": "p/forever-young-barber/"
+    },
+    {
+      "slug": "ps-barbershop",
+      "business": "P's Barbershop",
+      "url": "https://mellisadmd.wixsite.com/psbarbershop",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/ps-barbershop-refresh.html",
+      "stable_path": "p/ps-barbershop/"
+    },
+    {
+      "slug": "kingsway-barbershop",
+      "business": "Kingsway barbershop",
+      "url": "https://kingswaybarbersbop.wixsite.com/kingswaybarbershop",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/kingsway-barbershop-refresh.html",
+      "stable_path": "p/kingsway-barbershop/"
+    },
+    {
+      "slug": "be-still-barber",
+      "business": "Be Still Barber Studio",
+      "url": "https://bestillbarberstudi.wixsite.com/bestillbarberstudio",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/be-still-barber-refresh.html",
+      "stable_path": "p/be-still-barber/"
+    },
+    {
+      "slug": "la-barberia-oty",
+      "business": "La Barberia by Oty | Barbershop in albuquerque | 2601 Juan Tabo Blvd N",
+      "url": "https://otyscutsforeveryon.wixsite.com/labarberiabyoty",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/la-barberia-oty-refresh.html",
+      "stable_path": "p/la-barberia-oty/"
+    },
+    {
+      "slug": "hair-smith",
+      "business": "Hair Smith Barbershop",
+      "url": "https://dynamishots.wixsite.com/hairsmith",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/hair-smith-refresh.html",
+      "stable_path": "p/hair-smith/"
+    },
+    {
+      "slug": "ladz-dadz",
+      "business": "Ladz 'N' Dadz Barbershop",
+      "url": "https://ladzanddadzbarbers.wixsite.com/ladzdadzbarbershop-1",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/ladz-dadz-refresh.html",
+      "stable_path": "p/ladz-dadz/"
+    },
+    {
+      "slug": "million-hair",
+      "business": "Hair Extensions | Million Hair Dominican Salon | Houston | Peter Domin",
+      "url": "https://edgardcallejas.wixsite.com/raquel",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/million-hair-refresh.html",
+      "stable_path": "p/million-hair/"
+    },
+    {
+      "slug": "fly-cutz",
+      "business": "fly cutz industry barbershop",
+      "url": "https://flyindustryceo.wixsite.com/flycutz",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/fly-cutz-refresh.html",
+      "stable_path": "p/fly-cutz/"
+    },
+    {
+      "slug": "no-luck-barbershop",
+      "business": "No Luck Barbershop",
+      "url": "https://anthonynegrete9027.wixsite.com/no-luck-barbershop",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/no-luck-barbershop-refresh.html",
+      "stable_path": "p/no-luck-barbershop/"
+    },
+    {
+      "slug": "greatest-kutz",
+      "business": "The Greatest Kutz",
+      "url": "https://thegreatestkutzstylz.wixsite.com/the-greatest-kutz",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/greatest-kutz-refresh.html",
+      "stable_path": "p/greatest-kutz/"
+    },
+    {
+      "slug": "jimmy-barbershop504",
+      "business": "Jimmy BarberShop504",
+      "url": "https://erlolopez100.wixsite.com/jimmybarbershop504",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/jimmy-barbershop504-refresh.html",
+      "stable_path": "p/jimmy-barbershop504/"
+    },
+    {
+      "slug": "shiny-dogs",
+      "business": "Shiny Dogs barbershop",
+      "url": "https://shay1223.wixsite.com/shinydogsbarbersho-1",
+      "source": "batch20",
+      "status": "trusted_click_executed_confirmation_check_failed",
+      "local_html": "/Users/openclaw/online-100/batch20/shiny-dogs-refresh.html",
+      "stable_path": "p/shiny-dogs/"
+    },
+    {
+      "slug": "fresno-barbershop-the-lion-s-den-barbershop-fresno-jlionsden22",
+      "business": "Fresno Barbershop | The Lion's Den Barbershop | Fresno",
+      "url": "https://jlionsden22.wixsite.com/lionsden",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/fresno-barbershop-the-lion-s-den-barbershop-fresno-jlionsden22-refresh.html",
+      "stable_path": "p/fresno-barbershop-the-lion-s-den-barbershop-fresno-jlionsden22/"
+    },
+    {
+      "slug": "craft-masters-barber-shop-barber-shop-craftmastersbarber",
+      "business": "Craft Masters Barber Shop - Barber Shop",
+      "url": "https://craftmastersbarber.wixsite.com/barbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/craft-masters-barber-shop-barber-shop-craftmastersbarber-refresh.html",
+      "stable_path": "p/craft-masters-barber-shop-barber-shop-craftmastersbarber/"
+    },
+    {
+      "slug": "barber-shop-hoyt-bedford-barber-shop-united-states-hoytbedfordll",
+      "business": "Barber Shop | Hoyt Bedford Barber Shop | United States",
+      "url": "https://hoytbedfordllc.wixsite.com/website",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barber-shop-hoyt-bedford-barber-shop-united-states-hoytbedfordll-refresh.html",
+      "stable_path": "p/barber-shop-hoyt-bedford-barber-shop-united-states-hoytbedfordll/"
+    },
+    {
+      "slug": "my-barber-s-lounge-davonkelly1",
+      "business": "My Barber's Lounge",
+      "url": "https://davonkelly1.wixsite.com/mblnew",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/my-barber-s-lounge-davonkelly1-refresh.html",
+      "stable_path": "p/my-barber-s-lounge-davonkelly1/"
+    },
+    {
+      "slug": "dappergroomedwithjo-dappergroomedwithjo",
+      "business": "DapperGroomedWithJO",
+      "url": "https://dappergroomedwithjo.wixsite.com/dappergroomedwithjo",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/dappergroomedwithjo-dappergroomedwithjo-refresh.html",
+      "stable_path": "p/dappergroomedwithjo-dappergroomedwithjo/"
+    },
+    {
+      "slug": "peter-s-barbershop-caraleedawnmaclean",
+      "business": "Peter's Barbershop",
+      "url": "https://caraleedawnmaclean.wixsite.com/petersbarbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/peter-s-barbershop-caraleedawnmaclean-refresh.html",
+      "stable_path": "p/peter-s-barbershop-caraleedawnmaclean/"
+    },
+    {
+      "slug": "and-well-beauty-salon-and-barbershop-beautysalonandbarb",
+      "business": "AND WELL beauty salon and barbershop",
+      "url": "https://beautysalonandbarb.wixsite.com/andwellbeautysalonan",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/and-well-beauty-salon-and-barbershop-beautysalonandbarb-refresh.html",
+      "stable_path": "p/and-well-beauty-salon-and-barbershop-beautysalonandbarb/"
+    },
+    {
+      "slug": "stop-by-the-palace-barbershop-tsmarvalus",
+      "business": "Stop By The Palace Barbershop!",
+      "url": "https://tsmarvalus.wixsite.com/thepalacebarbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/stop-by-the-palace-barbershop-tsmarvalus-refresh.html",
+      "stable_path": "p/stop-by-the-palace-barbershop-tsmarvalus/"
+    },
+    {
+      "slug": "welcome-barbershopsalontre",
+      "business": "Welcome",
+      "url": "https://barbershopsalontre.wixsite.com/welcome",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/welcome-barbershopsalontre-refresh.html",
+      "stable_path": "p/welcome-barbershopsalontre/"
+    },
+    {
+      "slug": "creative-cuts-barbershop-jpy0506",
+      "business": "Creative Cuts Barbershop",
+      "url": "https://jpy0506.wixsite.com/creativecutsbarbersh",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/creative-cuts-barbershop-jpy0506-refresh.html",
+      "stable_path": "p/creative-cuts-barbershop-jpy0506/"
+    },
+    {
+      "slug": "r-j-barbershop-rnjbbshop",
+      "business": "R & J Barbershop",
+      "url": "https://rnjbbshop.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/r-j-barbershop-rnjbbshop-refresh.html",
+      "stable_path": "p/r-j-barbershop-rnjbbshop/"
+    },
+    {
+      "slug": "elite-image-of-man-barbershop-eliteimageofman",
+      "business": "Elite Image Of Man Barbershop",
+      "url": "https://eliteimageofman.wixsite.com/eliteimageofmanbarbe",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/elite-image-of-man-barbershop-eliteimageofman-refresh.html",
+      "stable_path": "p/elite-image-of-man-barbershop-eliteimageofman/"
+    },
+    {
+      "slug": "the-shavecave-exclusive-barbershop-bttrollip",
+      "business": "The ShaveCave Exclusive Barbershop",
+      "url": "https://bttrollip.wixsite.com/theshavecaveexclusiv",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/the-shavecave-exclusive-barbershop-bttrollip-refresh.html",
+      "stable_path": "p/the-shavecave-exclusive-barbershop-bttrollip/"
+    },
+    {
+      "slug": "fly-guy-society-barbershop-flyguysociety101",
+      "business": "Fly Guy Society Barbershop",
+      "url": "https://flyguysociety101.wixsite.com/flyguysocietybarbers",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/fly-guy-society-barbershop-flyguysociety101-refresh.html",
+      "stable_path": "p/fly-guy-society-barbershop-flyguysociety101/"
+    },
+    {
+      "slug": "bromsgrove-barbershop-akamdz1985",
+      "business": "Bromsgrove barbershop",
+      "url": "https://akamdz1985.wixsite.com/bromsgrovebarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/bromsgrove-barbershop-akamdz1985-refresh.html",
+      "stable_path": "p/bromsgrove-barbershop-akamdz1985/"
+    },
+    {
+      "slug": "barbershop-ann-arbor-m-m-barbershop-bsakelaris",
+      "business": "Barbershop | Ann Arbor | M&M Barbershop",
+      "url": "https://bsakelaris.wixsite.com/mmbarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barbershop-ann-arbor-m-m-barbershop-bsakelaris-refresh.html",
+      "stable_path": "p/barbershop-ann-arbor-m-m-barbershop-bsakelaris/"
+    },
+    {
+      "slug": "barber-barbershop-rosarios-barbering-vineland-nj-abbyrosew1",
+      "business": "Barber barbershop | Rosarios barbering | Vineland NJ",
+      "url": "https://abbyrosew1.wixsite.com/rosariosbarbering",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barber-barbershop-rosarios-barbering-vineland-nj-abbyrosew1-refresh.html",
+      "stable_path": "p/barber-barbershop-rosarios-barbering-vineland-nj-abbyrosew1/"
+    },
+    {
+      "slug": "prime-time-barbershop-primetimeames",
+      "business": "Prime Time Barbershop",
+      "url": "https://primetimeames.wixsite.com/primetimebarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/prime-time-barbershop-primetimeames-refresh.html",
+      "stable_path": "p/prime-time-barbershop-primetimeames/"
+    },
+    {
+      "slug": "pace-yourself-barbershop-paceyourselfbarber",
+      "business": "Pace Yourself Barbershop",
+      "url": "https://paceyourselfbarber.wixsite.com/paceyourselfbarbersh",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/pace-yourself-barbershop-paceyourselfbarber-refresh.html",
+      "stable_path": "p/pace-yourself-barbershop-paceyourselfbarber/"
+    },
+    {
+      "slug": "agape-luciano-s-barber-and-hair-salon-agapelucianobc",
+      "business": "Agape Luciano's Barber and Hair Salon",
+      "url": "https://agapelucianobc.wixsite.com/agapelucianosbarbera",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/agape-luciano-s-barber-and-hair-salon-agapelucianobc-refresh.html",
+      "stable_path": "p/agape-luciano-s-barber-and-hair-salon-agapelucianobc/"
+    },
+    {
+      "slug": "elegantgentsbarber-com-elegantgentsbarber",
+      "business": "elegantgentsbarber.com",
+      "url": "https://elegantgentsbarber.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/elegantgentsbarber-com-elegantgentsbarber-refresh.html",
+      "stable_path": "p/elegantgentsbarber-com-elegantgentsbarber/"
+    },
+    {
+      "slug": "bozoo-barbershop-badboyz21",
+      "business": "Bozoo Barbershop",
+      "url": "https://badboyz21.wixsite.com/bozoobarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/bozoo-barbershop-badboyz21-refresh.html",
+      "stable_path": "p/bozoo-barbershop-badboyz21/"
+    },
+    {
+      "slug": "barber-barbershop-near-me-baltimore-md-damien-da-barber-damey813",
+      "business": "Barber Barbershop Near Me | Baltimore, MD | Damien da Barber",
+      "url": "https://damey813.wixsite.com/ddabarber",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barber-barbershop-near-me-baltimore-md-damien-da-barber-damey813-refresh.html",
+      "stable_path": "p/barber-barbershop-near-me-baltimore-md-damien-da-barber-damey813/"
+    },
+    {
+      "slug": "book-online-connie-s-barbershop-motoman25",
+      "business": "Book Online | Connie's Barbershop",
+      "url": "https://motoman25.wixsite.com/conniesbarbershop/book-online",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/book-online-connie-s-barbershop-motoman25-refresh.html",
+      "stable_path": "p/book-online-connie-s-barbershop-motoman25/"
+    },
+    {
+      "slug": "dang-the-barber-dangthebarber",
+      "business": "Dang The Barber",
+      "url": "https://dangthebarber.wixsite.com/home",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/dang-the-barber-dangthebarber-refresh.html",
+      "stable_path": "p/dang-the-barber-dangthebarber/"
+    },
+    {
+      "slug": "the-barbershop-taylorranch5",
+      "business": "The BarberShop",
+      "url": "https://taylorranch5.wixsite.com/thebarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/the-barbershop-taylorranch5-refresh.html",
+      "stable_path": "p/the-barbershop-taylorranch5/"
+    },
+    {
+      "slug": "barbershop-hollywood-cutz-united-states-hollywoodz918",
+      "business": "Barbershop | Hollywood Cutz | United States",
+      "url": "https://hollywoodz918.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barbershop-hollywood-cutz-united-states-hollywoodz918-refresh.html",
+      "stable_path": "p/barbershop-hollywood-cutz-united-states-hollywoodz918/"
+    },
+    {
+      "slug": "dmario-dmariosalon",
+      "business": "Dmario",
+      "url": "https://dmariosalon.wixsite.com/dmario",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/dmario-dmariosalon-refresh.html",
+      "stable_path": "p/dmario-dmariosalon/"
+    },
+    {
+      "slug": "new-urban-barber-newurbancut",
+      "business": "New Urban Barber",
+      "url": "https://newurbancut.wixsite.com/newurbancuts",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/new-urban-barber-newurbancut-refresh.html",
+      "stable_path": "p/new-urban-barber-newurbancut/"
+    },
+    {
+      "slug": "hbl-barbershop-hblbarbershop",
+      "business": "HBL BARBERSHOP",
+      "url": "https://hblbarbershop.wixsite.com/hbl-barbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/hbl-barbershop-hblbarbershop-refresh.html",
+      "stable_path": "p/hbl-barbershop-hblbarbershop/"
+    },
+    {
+      "slug": "hanks-barbershop-hanksbarbershopbz",
+      "business": "Hanks Barbershop",
+      "url": "https://hanksbarbershopbz.wixsite.com/hanksbarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/hanks-barbershop-hanksbarbershopbz-refresh.html",
+      "stable_path": "p/hanks-barbershop-hanksbarbershopbz/"
+    },
+    {
+      "slug": "olea-s-barbershop-oleasfamily",
+      "business": "OLEA'S BARBERSHOP",
+      "url": "https://oleasfamily.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/olea-s-barbershop-oleasfamily-refresh.html",
+      "stable_path": "p/olea-s-barbershop-oleasfamily/"
+    },
+    {
+      "slug": "studio360-barbershop-enyawlm74",
+      "business": "Studio360 Barbershop",
+      "url": "https://enyawlm74.wixsite.com/studio360barbershop/contact",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/studio360-barbershop-enyawlm74-refresh.html",
+      "stable_path": "p/studio360-barbershop-enyawlm74/"
+    },
+    {
+      "slug": "fade-and-blade-studio-barbershop-fadeandbladestudio",
+      "business": "Fade and Blade Studio\ufe0f Barbershop",
+      "url": "https://fadeandbladestudio.wixsite.com/website",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/fade-and-blade-studio-barbershop-fadeandbladestudio-refresh.html",
+      "stable_path": "p/fade-and-blade-studio-barbershop-fadeandbladestudio/"
+    },
+    {
+      "slug": "top-mens-barbers-in-broome-the-barber-of-broome-thebarberofbroom",
+      "business": "Top Mens Barbers In Broome | The Barber Of Broome",
+      "url": "https://thebarberofbroome2.wixsite.com/thebarberofbroome",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/top-mens-barbers-in-broome-the-barber-of-broome-thebarberofbroom-refresh.html",
+      "stable_path": "p/top-mens-barbers-in-broome-the-barber-of-broome-thebarberofbroom/"
+    },
+    {
+      "slug": "custom-clippers-barbershop-cireous",
+      "business": "Custom Clippers Barbershop",
+      "url": "https://cireous.wixsite.com/customclippersbarber",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/custom-clippers-barbershop-cireous-refresh.html",
+      "stable_path": "p/custom-clippers-barbershop-cireous/"
+    },
+    {
+      "slug": "fades-r-us-barbershop-fadesrus2020",
+      "business": "Fades R Us Barbershop",
+      "url": "https://fadesrus2020.wixsite.com/fadesrusbarbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/fades-r-us-barbershop-fadesrus2020-refresh.html",
+      "stable_path": "p/fades-r-us-barbershop-fadesrus2020/"
+    },
+    {
+      "slug": "holmes-ii-barbershop-harperpdt",
+      "business": "Holmes II Barbershop",
+      "url": "https://harperpdt.wixsite.com/holmes2",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/holmes-ii-barbershop-harperpdt-refresh.html",
+      "stable_path": "p/holmes-ii-barbershop-harperpdt/"
+    },
+    {
+      "slug": "matt-s-barbershop-mattloomis23",
+      "business": "Matt's Barbershop",
+      "url": "https://mattloomis23.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/matt-s-barbershop-mattloomis23-refresh.html",
+      "stable_path": "p/matt-s-barbershop-mattloomis23/"
+    },
+    {
+      "slug": "barbershop-syndicut-barbershop-bandung-syndicutbarbershop",
+      "business": "Barbershop | Syndicut Barbershop | Bandung",
+      "url": "https://syndicutbarbershop.wixsite.com/website",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/barbershop-syndicut-barbershop-bandung-syndicutbarbershop-refresh.html",
+      "stable_path": "p/barbershop-syndicut-barbershop-bandung-syndicutbarbershop/"
+    },
+    {
+      "slug": "fenny-s-majestic-kuttz-demetriusclagon",
+      "business": "fenny\"s Majestic Kuttz",
+      "url": "https://demetriusclagon.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/fenny-s-majestic-kuttz-demetriusclagon-refresh.html",
+      "stable_path": "p/fenny-s-majestic-kuttz-demetriusclagon/"
+    },
+    {
+      "slug": "batterseabarber-batterseabarber",
+      "business": "Batterseabarber",
+      "url": "https://batterseabarber.wixsite.com/azhar",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/batterseabarber-batterseabarber-refresh.html",
+      "stable_path": "p/batterseabarber-batterseabarber/"
+    },
+    {
+      "slug": "royalty-barbershop-marcelahelps",
+      "business": "Royalty Barbershop",
+      "url": "https://marcelahelps.wixsite.com/royalty-barbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/royalty-barbershop-marcelahelps-refresh.html",
+      "stable_path": "p/royalty-barbershop-marcelahelps/"
+    },
+    {
+      "slug": "uptown-cuts-1dempel",
+      "business": "Uptown Cuts",
+      "url": "https://1dempel.wixsite.com/uptowncutsmasterbarb",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/uptown-cuts-1dempel-refresh.html",
+      "stable_path": "p/uptown-cuts-1dempel/"
+    },
+    {
+      "slug": "the-oc-barbershop-theocbarbershop",
+      "business": "The OC Barbershop",
+      "url": "https://theocbarbershop.wixsite.com/theocbarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/the-oc-barbershop-theocbarbershop-refresh.html",
+      "stable_path": "p/the-oc-barbershop-theocbarbershop/"
+    },
+    {
+      "slug": "rockabilly-since-2019-rockabilly2019cy",
+      "business": "Rockabilly since 2019",
+      "url": "https://rockabilly2019cy.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/rockabilly-since-2019-rockabilly2019cy-refresh.html",
+      "stable_path": "p/rockabilly-since-2019-rockabilly2019cy/"
+    },
+    {
+      "slug": "deano-s-barbershop-deanosbarbershop",
+      "business": "Deano's Barbershop",
+      "url": "https://deanosbarbershop.wixsite.com/deanosbarbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/deano-s-barbershop-deanosbarbershop-refresh.html",
+      "stable_path": "p/deano-s-barbershop-deanosbarbershop/"
+    },
+    {
+      "slug": "misfit-barber-company-petermarkyoung",
+      "business": "MISFIT BARBER COMPANY",
+      "url": "https://petermarkyoung.wixsite.com/misfitbarberco",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/misfit-barber-company-petermarkyoung-refresh.html",
+      "stable_path": "p/misfit-barber-company-petermarkyoung/"
+    },
+    {
+      "slug": "quadir-s-barbershop-kailkd",
+      "business": "Quadir's Barbershop",
+      "url": "https://kailkd.wixsite.com/quadirsbarbershop",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/quadir-s-barbershop-kailkd-refresh.html",
+      "stable_path": "p/quadir-s-barbershop-kailkd/"
+    },
+    {
+      "slug": "salon-dk-davonkelly1",
+      "business": "SALON DK",
+      "url": "https://davonkelly1.wixsite.com/my-site/contact",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/salon-dk-davonkelly1-refresh.html",
+      "stable_path": "p/salon-dk-davonkelly1/"
+    },
+    {
+      "slug": "delaware-barber-leek-the-barber-delaware-leekthebarber92",
+      "business": "Delaware Barber | Leek The Barber | Delaware",
+      "url": "https://leekthebarber92.wixsite.com/leek",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/delaware-barber-leek-the-barber-delaware-leekthebarber92-refresh.html",
+      "stable_path": "p/delaware-barber-leek-the-barber-delaware-leekthebarber92/"
+    },
+    {
+      "slug": "mysite-homerunkuts",
+      "business": "Mysite",
+      "url": "https://homerunkuts.wixsite.com/mysite",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/mysite-homerunkuts-refresh.html",
+      "stable_path": "p/mysite-homerunkuts/"
+    },
+    {
+      "slug": "kuniya-hair-kuniyahair",
+      "business": "KUNIYA HAIR",
+      "url": "https://kuniyahair.wixsite.com/kuniyahair-1",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/kuniya-hair-kuniyahair-refresh.html",
+      "stable_path": "p/kuniya-hair-kuniyahair/"
+    },
+    {
+      "slug": "wellcrew-hair-salon-infowellcrew",
+      "business": "Wellcrew Hair Salon",
+      "url": "https://infowellcrew.wixsite.com/wellcrewhairsalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/wellcrew-hair-salon-infowellcrew-refresh.html",
+      "stable_path": "p/wellcrew-hair-salon-infowellcrew/"
+    },
+    {
+      "slug": "lk-hair-salon-stephaniepaskell",
+      "business": "Lk Hair Salon",
+      "url": "https://stephaniepaskell.wixsite.com/lkhairsalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/lk-hair-salon-stephaniepaskell-refresh.html",
+      "stable_path": "p/lk-hair-salon-stephaniepaskell/"
+    },
+    {
+      "slug": "the-hair-after-salon-hairaftersalon",
+      "business": "The Hair After Salon",
+      "url": "https://hairaftersalon.wixsite.com/thehairaftersalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/the-hair-after-salon-hairaftersalon-refresh.html",
+      "stable_path": "p/the-hair-after-salon-hairaftersalon/"
+    },
+    {
+      "slug": "bellvee-hair-studio-bellveehairstudio",
+      "business": "BellVee Hair Studio",
+      "url": "https://bellveehairstudio.wixsite.com/bellveehairstudio",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/bellvee-hair-studio-bellveehairstudio-refresh.html",
+      "stable_path": "p/bellvee-hair-studio-bellveehairstudio/"
+    },
+    {
+      "slug": "hairstylist-tiffany-and-company-llc-maryland-stylisttiffanyandc",
+      "business": "Hairstylist | Tiffany and Company LLC | Maryland",
+      "url": "https://stylisttiffanyandc.wixsite.com/mysite",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/hairstylist-tiffany-and-company-llc-maryland-stylisttiffanyandc-refresh.html",
+      "stable_path": "p/hairstylist-tiffany-and-company-llc-maryland-stylisttiffanyandc/"
+    },
+    {
+      "slug": "teased-hair-and-nail-studio-salliengo",
+      "business": "Teased Hair and Nail Studio",
+      "url": "https://salliengo.wixsite.com/teasedhairandnail",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/teased-hair-and-nail-studio-salliengo-refresh.html",
+      "stable_path": "p/teased-hair-and-nail-studio-salliengo/"
+    },
+    {
+      "slug": "royal-hair-beauty-salon-royalsalon44",
+      "business": "Royal Hair & Beauty Salon",
+      "url": "https://royalsalon44.wixsite.com/beauty",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/royal-hair-beauty-salon-royalsalon44-refresh.html",
+      "stable_path": "p/royal-hair-beauty-salon-royalsalon44/"
+    },
+    {
+      "slug": "atlantic-hair-salon-tahaasoglu34",
+      "business": "Atlantic Hair Salon",
+      "url": "https://tahaasoglu34.wixsite.com/atlantichairsalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/atlantic-hair-salon-tahaasoglu34-refresh.html",
+      "stable_path": "p/atlantic-hair-salon-tahaasoglu34/"
+    },
+    {
+      "slug": "house-of-beauty-houseofbeautyrh",
+      "business": "House of Beauty",
+      "url": "https://houseofbeautyrh.wixsite.com/home",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/house-of-beauty-houseofbeautyrh-refresh.html",
+      "stable_path": "p/house-of-beauty-houseofbeautyrh/"
+    },
+    {
+      "slug": "reppan-centric-salon-reppancentric",
+      "business": "Reppan Centric Salon",
+      "url": "https://reppancentric.wixsite.com/reppancentricsalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/reppan-centric-salon-reppancentric-refresh.html",
+      "stable_path": "p/reppan-centric-salon-reppancentric/"
+    },
+    {
+      "slug": "hairtrix-carolina-hairtrixcarolina",
+      "business": "Hairtrix Carolina",
+      "url": "https://hairtrixcarolina.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/hairtrix-carolina-hairtrixcarolina-refresh.html",
+      "stable_path": "p/hairtrix-carolina-hairtrixcarolina/"
+    },
+    {
+      "slug": "3brinsalon-ansleysears",
+      "business": "3BrinSalon",
+      "url": "https://www.3brinsalon.com/",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/3brinsalon-ansleysears-refresh.html",
+      "stable_path": "p/3brinsalon-ansleysears/"
+    },
+    {
+      "slug": "edie-s-hair-salon-ediecram",
+      "business": "Edie's Hair Salon",
+      "url": "https://ediecram.wixsite.com/edieshairsalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/edie-s-hair-salon-ediecram-refresh.html",
+      "stable_path": "p/edie-s-hair-salon-ediecram/"
+    },
+    {
+      "slug": "salon-sensations-hairartist4ever",
+      "business": "Salon Sensations",
+      "url": "https://hairartist4ever.wixsite.com/salonsensations",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/salon-sensations-hairartist4ever-refresh.html",
+      "stable_path": "p/salon-sensations-hairartist4ever/"
+    },
+    {
+      "slug": "ugo-hair-sashaartist8",
+      "business": "Ugo Hair",
+      "url": "https://sashaartist8.wixsite.com/ugohair",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/ugo-hair-sashaartist8-refresh.html",
+      "stable_path": "p/ugo-hair-sashaartist8/"
+    },
+    {
+      "slug": "gypsy-salon-jadams129",
+      "business": "Gypsy Salon",
+      "url": "https://jadams129.wixsite.com/gypsysalon",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/gypsy-salon-jadams129-refresh.html",
+      "stable_path": "p/gypsy-salon-jadams129/"
+    },
+    {
+      "slug": "ultimate-salon-ultimatesalon",
+      "business": "Ultimate Salon",
+      "url": "https://ultimatesalon.wixsite.com/website",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/ultimate-salon-ultimatesalon-refresh.html",
+      "stable_path": "p/ultimate-salon-ultimatesalon/"
+    },
+    {
+      "slug": "applause-hair-designs-applausehairdesign",
+      "business": "Applause Hair Designs",
+      "url": "https://applausehairdesign.wixsite.com/home",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/applause-hair-designs-applausehairdesign-refresh.html",
+      "stable_path": "p/applause-hair-designs-applausehairdesign/"
+    },
+    {
+      "slug": "harrison-steele-salon-harrisonsteelesalon",
+      "business": "Harrison Steele Salon",
+      "url": "https://harrisonsteelesalon.wixsite.com/website",
+      "source": "to100",
+      "status": "confirmed_success_text_after_submit",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/harrison-steele-salon-harrisonsteelesalon-refresh.html",
+      "stable_path": "p/harrison-steele-salon-harrisonsteelesalon/"
+    },
+    {
+      "slug": "eden-society-scoopit80",
+      "business": "Eden Society",
+      "url": "https://scoopit80.wixsite.com/edensociety",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/eden-society-scoopit80-refresh.html",
+      "stable_path": "p/eden-society-scoopit80/"
+    },
+    {
+      "slug": "cloverleaf-barber-shop-cloverleafbarbershop",
+      "business": "Cloverleaf Barber Shop",
+      "url": "https://cloverleafbarbershop.wixsite.com/cloverleafbarbershop",
+      "source": "to100",
+      "status": "trusted_submit_click_unconfirmed",
+      "local_html": "/Users/openclaw/online-100/to100/mockups/cloverleaf-barber-shop-cloverleafbarbershop-refresh.html",
+      "stable_path": "p/cloverleaf-barber-shop-cloverleafbarbershop/"
+    }
+  ],
+  "missing": []
+}
